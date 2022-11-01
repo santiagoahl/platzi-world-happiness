@@ -20,7 +20,7 @@
   <a href="#license">License</a> 
 </p>
 
-![screenshot](https://github.com/santiagoahl/world-happiness/gif.gif)
+![screenshot](https://github.com/santiagoahl/world-happiness/blob/main/intro.gif)
 
 ## Key Features
 
