@@ -37,7 +37,7 @@ This machine learning model predicts de happines score, which is a number betwee
   - `corruption` 
   - `dystopia` : Imaginary country that has the world's least-happy people.
 * Professional Modularization on this Project.  Some modules are programmed using **OOP**.
-* Build with an Rest API programmed in **Flask** .
+* Built with an Rest API programmed in **Flask** .
 * Based on **Scikit-Learn** modules and functions such like:
   -  `svm.SVR` :   Support Vector Regressor.
   - `ensemble.GradientBoostingRegressor` :   Gradiente Boosting Regressors Ensemble method.
