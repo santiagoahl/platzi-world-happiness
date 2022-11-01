@@ -27,16 +27,16 @@
 This machine learning model predicts de happines score, which is a number between 0 and 10. The dataset is taken from the [World Happiness Report Kaggle Competition](https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2017.csv). So here are the key features of this project:
 
 * Prediction is based on this country's features:
- - `high` 
- - `low` 
- - `gdp` 
- - `family`
- - `lifexp` 
- - `freedom` 
- - `generosity` 
- - `corruption` 
- - `dystopia` : Imaginary country that has the world's least-happy people.
-* Modularized Project.  Some modules are programmed using **OOP**.
+  - `high` 
+  - `low` 
+  - `gdp` 
+  - `family`
+  - `lifexp` 
+  - `freedom` 
+  - `generosity` 
+  - `corruption` 
+  - `dystopia` : Imaginary country that has the world's least-happy people.
+* Professional Modularization on this Project.  Some modules are programmed using **OOP**.
 * Build with an Rest API programmed in **Flask** .
 * Based on **Scikit-Learn** modules and functions such like:
   -  `svm.SVR` :   Support Vector Regressor.
