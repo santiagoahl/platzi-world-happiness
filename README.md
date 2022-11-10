@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Machine Learning Model built in scikit-learn using Support Vector Regressors and ensemble modeling with Gradient Boost Regressor and Cross Validation. 
+<h4 align="center">A Machine Learning Model API in scikit-learn using Support Vector Regressors and ensemble modeling with Gradient Boost Regressor and Cross Validation. 
 </h4>
 
 <p align="center">
